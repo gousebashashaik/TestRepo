@@ -3,3 +3,4 @@ git
 git2
 precommit
 pre-receive test
+ruby
