@@ -20,7 +20,6 @@ import de.hybris.platform.servicelayer.dto.converter.ConversionException;
 import de.hybris.platform.util.Config;
 import java.math.BigDecimal;
 import java.util.Currency;
-
 import org.apache.commons.lang.StringUtils;
 import org.apache.commons.lang.WordUtils;
 
